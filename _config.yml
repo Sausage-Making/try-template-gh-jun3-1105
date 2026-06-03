@@ -1,0 +1,14 @@
+  plugins:
+    - jekyll-optional-front-matter
+    - jekyll-readme-index
+    - jekyll-relative-links
+
+  include:
+    - README.md
+    - LICENSE
+    # - LICENCE
+    # - COPYING
+    # - CODE_OF_CONDUCT
+    # - CONTRIBUTING
+    # - ISSUE_TEMPLATE
+    # - PULL_REQUEST_TEMPLATE
