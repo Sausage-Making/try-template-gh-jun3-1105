@@ -1,3 +1,5 @@
+<p onclick="alert('bu')">bu</p>
+
 <!--????
 
 TEMPLATE for GitHub repos
@@ -184,4 +186,9 @@ Pick for your preferred package manager:
 ### ...authors...: ...title...
   * ...info-about-source...
   * ...https://url-for-source...
+
+<a href="#" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="0" vspace="1000" width="45%">&lbrack;top&rbrack;</a>
+
+<a href="#" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="1000" vspace="1000" width="45%">&lbrack;top2&rbrack;</a>
+
 
