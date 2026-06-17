@@ -187,8 +187,8 @@ Pick for your preferred package manager:
   * ...info-about-source...
   * ...https://url-for-source...
 
-<a href="#" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="0" vspace="1000" width="45%">&lbrack;top&rbrack;</a>
+<a href="#project-title" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="0" vspace="1000" width="45%">&lbrack;top&rbrack;</a>
 
-<a href="#" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="1000" vspace="1000" width="45%">&lbrack;top2&rbrack;</a>
+<a href="#project-title" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="1000" vspace="1000" width="45%">&lbrack;top2&rbrack;</a>
 
 
