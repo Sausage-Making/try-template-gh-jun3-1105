@@ -189,6 +189,6 @@ Pick for your preferred package manager:
 
 <a href="#project-title" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="./assets/endspacer.png" height="0" vspace="1000" width="45%">&lbrack;top&rbrack;</a>
 
-<a href="#project-title" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="[./assets/endspacer.png](https://raw.githubusercontent.com/make-github-pseudonymous-again/pixels/main/1x1%23FFFFFF.png)" height="1000" vspace="1000" width="45%">&lbrack;top2&rbrack;</a>
+<a href="#project-title" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top"><img alt="&nbsp;" src="https://raw.githubusercontent.com/make-github-pseudonymous-again/pixels/main/1x1%23FFFFFF.png" height="1000" vspace="1000" width="45%">&lbrack;top2&rbrack;</a>
 
 
