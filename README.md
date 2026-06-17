@@ -187,8 +187,9 @@ Pick for your preferred package manager:
   * ...info-about-source...
   * ...https://url-for-source...
 
-<!-- "#top" is a browser built-in => https://hh-lohmann.github.io/html-endspacer -->
-<p id="endspacer" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top" align="center"><a href="#top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=" height="1000" width="100%"><br>[top]</a></p>
+<!-- Endspacer - see https://hh-lohmann.github.io/html-endspacer -->
+<p id="endspacer" title="Endspacer - helps to align scrolling and positioning link targets | Click (touch) to jump to page top" align="center"><a href="#top"><img alt="Endspacer: Obviously no support for Data URLs - see https://hh-lohmann.github.io/html-endspacer" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=" height="1000" width="100%"><br>[top]</a></p>
+
 
 
 
